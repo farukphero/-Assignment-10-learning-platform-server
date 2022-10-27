@@ -4,7 +4,7 @@
       "courses_id": 1,
       "name": "Adobe Photoshop",
       "image": "https://t3.ftcdn.net/jpg/02/00/90/24/360_F_200902415_G4eZ9Ok3Ypd4SZZKjc8nqJyFVp1eOD6V.jpg",
-     
+      "trainer":"Tomas",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVKBlTmzIido7mJCXfHdf3C2LQTIBhlqMkQ&usqp=CAU",
       "title": "Enhancing Adobe Photoshop CC 2020 Skills",
       "price": "199$",
@@ -16,7 +16,7 @@
       "courses_id": 2,
       "name": "HTML, CSS",
       "image": "https://t3.ftcdn.net/jpg/02/00/90/24/360_F_200902415_G4eZ9Ok3Ypd4SZZKjc8nqJyFVp1eOD6V.jpg",
-      
+      "trainer":"Rowan",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVKBlTmzIido7mJCXfHdf3C2LQTIBhlqMkQ&usqp=CAU",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQkOfekAvVGcOpajiob5j4mcnhNf3URPe9Ac12qj4Z4okVnf4gyNuBjN9K-3bpG8W6xo&usqp=CAU",
       "title": "HTML, CSS and JavaScript for Web Developers",
@@ -29,7 +29,7 @@
       "courses_id": 3,
       "name": "WordPress",
       "image": "https://t3.ftcdn.net/jpg/02/00/90/24/360_F_200902415_G4eZ9Ok3Ypd4SZZKjc8nqJyFVp1eOD6V.jpg",
-
+      "trainer":"Sebastian",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVKBlTmzIido7mJCXfHdf3C2LQTIBhlqMkQ&usqp=CAU",
       "picture": "https://uanvi.com/wp-content/uploads/2022/04/WordPress.jpg",
       "title": "Introducing to Programming with WordPress",
@@ -42,7 +42,7 @@
       "courses_id": 4,
       "name": "Fundamentals for Software Engineering",
       "image": "https://t3.ftcdn.net/jpg/02/00/90/24/360_F_200902415_G4eZ9Ok3Ypd4SZZKjc8nqJyFVp1eOD6V.jpg",
-
+      "trainer":"Mateo",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVKBlTmzIido7mJCXfHdf3C2LQTIBhlqMkQ&usqp=CAU",
       "picture": "https://softbin.com.bd/image/posts/3d7f6325d3eda8e98ba8632900623540.jpg",
       "title": "Basic Fundamentals for Software Engineering",
@@ -55,7 +55,7 @@
       "courses_id": 5,
       "name": "Logo Design",
       "image": "https://t3.ftcdn.net/jpg/02/00/90/24/360_F_200902415_G4eZ9Ok3Ypd4SZZKjc8nqJyFVp1eOD6V.jpg",
-
+      "trainer":"Waylen",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVKBlTmzIido7mJCXfHdf3C2LQTIBhlqMkQ&usqp=CAU",
       "picture": "https://img.freepik.com/free-vector/luxury-logo-design-collection-branding-coporate-identity_25819-722.jpg?w=2000",
       "title": "Logo Design Course",
@@ -68,7 +68,7 @@
       "courses_id": 6,
       "name": "Basic JavaScript",
       "image": "https://t3.ftcdn.net/jpg/02/00/90/24/360_F_200902415_G4eZ9Ok3Ypd4SZZKjc8nqJyFVp1eOD6V.jpg",
-      
+      "trainer":"Brendan Eich",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVKBlTmzIido7mJCXfHdf3C2LQTIBhlqMkQ&usqp=CAU",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfoOIeZ9fzgmznc5EUtKW38UqzbYkI1xqzw&usqp=CAU",
       "title": "Basic JS Programming Language",
