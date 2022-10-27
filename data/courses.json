@@ -1,0 +1,62 @@
+[
+    {
+      "_id": "635801f3bf4e7c2ddd144fa2",
+      "courses_id": 1,
+      "name": "Adobe Photoshop",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVKBlTmzIido7mJCXfHdf3C2LQTIBhlqMkQ&usqp=CAU",
+      "title": "Enhancing Adobe Photoshop CC 2020 Skills",
+      "price": "199$",
+      "details": "There are many reasons why you should learn Photoshop. Learning Photoshop is essential if you work in a graphic design, web design, or user experience role. Yet it is also equally important to learn Photoshop for those working in hands-on marketing roles. Whether creating flyers, brochures, or email newsletters, there is a need to know Photoshop for optimizing and retouching images. You can learn Photoshop even if you are a beginner with no previous experience. Adobe Photoshop is software that is extensively used for raster image editing, graphic design and digital art. It makes use of layering to allow for depth and flexibility in the design and editing process, as well as provide powerful editing tools, that when combined, are capable of just about anything.It was created by brothers Thomas and John Knoll in 1988. In 1989, John sold the program to Adobe Systems, which marketed it as “Photoshop.” Since then, the program has become the de facto industry standard for raster graphics editing. It is published for both macOS and Windows, but not Linux.",
+      "email": "morserichardson@zillactic.com"
+    },
+    {
+      "_id": "635801f378d0dd30094d44ec",
+      "courses_id": 2,
+      "name": "HTML, CSS",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQkOfekAvVGcOpajiob5j4mcnhNf3URPe9Ac12qj4Z4okVnf4gyNuBjN9K-3bpG8W6xo&usqp=CAU",
+      "title": "HTML, CSS and JavaScript for Web Developers",
+      "price": "220$",
+      "details": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones. As a web developer, the three main languages we use to build websites are HTML, CSS, and JavaScript.JavaScript is the programming language, we use HTML to structure the site, and we use CSS to design and layout the web page.These days, CSS has become more than just a design language, though. You can actually implement animations and smooth transitions with just CSS.In fact, you can do some basic programming with CSS too. An example of this is when you use media queries, where you define different style rules for different kinds of screens (resolutions).",
+      "email": "graciejenkins@slambda.com"
+    },
+    {
+      "_id": "635801f3109dc5e679a35fac",
+      "courses_id": 3,
+      "name": "WordPress",
+      "picture": "https://uanvi.com/wp-content/uploads/2022/04/WordPress.jpg",
+      "title": "Introducing to Programming with WordPress",
+      "price": "150$",
+      "details": "One of the biggest reasons to learn WordPress is that the software is completely free and open-source, meaning that you can literally build features and capabilities on top of it and improve the existing website that you have. WordPress is an open-source content management system (CMS). It’s a popular tool for individuals without any coding experience who want to build websites and blogs. The software doesn’t cost anything. Anyone can install, use, and modify it for free.WordPress is the most popular content management system in the world. Most companies prefer to use it because it's free, easy to set up, and beginner-friendly. If the job description is asking for WordPress skills, you must feature your basic knowledge about it in your resume.",
+      "email": "howardsilva@isoswitch.com"
+    },
+    {
+      "_id": "635801f3e641e7d7747ace59",
+      "courses_id": 4,
+      "name": "Fundamentals for Software Engineering",
+      "picture": "https://softbin.com.bd/image/posts/3d7f6325d3eda8e98ba8632900623540.jpg",
+      "title": "Basic Fundamentals for Software Engineering",
+      "price": "250$",
+      "details": "Software Engineering Fundamentals is unique in its coverage of such topics as software metrics, real-time software design, quality assurance, reliability, risk management, cost and schedule estimation, sizing, planning, test and integration process, technical management, and human factors.Software-engineering principles deal with both the process of software engineering and the final product. The right process will help produce the right product, but the desired product will also affect the choice of which process to use. A traditional problem in software engineering has been the emphasis on either the process or the product to the exclusion of the other. Both are important. To apply principles, the software engineer should be equipped with appropriate methods (general guidelines that govern the execution of some activity; they are accurate, systematic, and disciplined approaches.) and specific techniques that help incorporate the desired properties into processes and products.",
+      "email": "simoncrosby@mixers.com"
+    },
+    {
+      "_id": "635801f3bff987e54e6acb0e",
+      "courses_id": 5,
+      "name": "Logo Design",
+      "picture": "https://img.freepik.com/free-vector/luxury-logo-design-collection-branding-coporate-identity_25819-722.jpg?w=2000",
+      "title": "Logo Design Course",
+      "price":  "300$",
+      "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts. So, why is a logo important? Because it grabs attention, makes a strong first impression, is the foundation of your brand identity, is memorable, separates you from competition, fosters brand loyalty, and is expected by your audience.In the most simple terms, a logo is a symbol comprised of words, images, and colors that is used to identify a brand or product. Specific types of logos come in all different shapes and sizes that run the gamut from simple text logotypes to abstract logo marks (we'll go into more detail about those soon).",
+      "email": "leahferguson@moreganic.com"
+    },
+    {
+      "_id": "635801f3bff987e55e7dcb0e",
+      "courses_id": 6,
+      "name": "Basic JavaScript",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfoOIeZ9fzgmznc5EUtKW38UqzbYkI1xqzw&usqp=CAU",
+      "title": "Basic JS Programming Language",
+      "price": "350$",
+      "details": "JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc.JavaScript is a powerful programming language that can add interactivity to a website. It was invented by Brendan Eich.JavaScript is versatile and beginner-friendly. With more experience, you'll be able to create games, animated 2D and 3D graphics, comprehensive database-driven apps, and much more! JavaScript itself is relatively compact, yet very flexible. Developers have written a variety of tools on top of the core JavaScript language, unlocking a vast amount of functionality with minimum effort.",
+      "email": "leahferguson@moreganic.com"
+    }
+  ]
